@@ -7,6 +7,32 @@
   min-height: 100vh;
 }
 
+.abab {
+  display: flex;
+  justify-content: center;
+  font-size: 236%;
+}
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  margin-top: 7%;
+}
+
+.iconss {
+  font-size: 1px;
+}
+
+.bus {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.mon {
+  text-align: center;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
@@ -276,3 +302,4 @@
     transform: rotate(0deg);
   }
 }
+
